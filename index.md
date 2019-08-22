@@ -186,6 +186,15 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p>
+  <strong>Personal Data Protection Notice</strong>:
+  By registering for this event, you hereby consent to the collection, use and disclosure of your personal data by the event   organizer for the purposes of processing, administering and managing your registration for this event. 
+</p>
+<p>
+  <strong>Photography and Videography</strong>:
+  Photography and videography will take place during the event. By taking part in this event, you are consenting that these   images can be used by the event organizer for any form of publicity usage including but not limited to website, media and   publication purposes.
+</p>
+
 <hr/>
 
 {% comment %} 
